@@ -1,0 +1,10 @@
+HW03 認識Numpy			
+HW04 線性回歸			
+HW05 Pandas數據分析(一)			
+HW06 Pandas數據分析(二)			
+HW07 Scikit Learn機器學習			
+HW08 Scikit Learn機器學習(二)			
+HW09 Scikit Learn機器學習(三)			
+HW10 Scikit Learn機器學習(四)			
+HW11 類神經元網路(一)			
+HW12 類神經元網路(二)
